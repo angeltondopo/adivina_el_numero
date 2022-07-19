@@ -5,7 +5,7 @@ def run():
     vidas = 6
     numero_aleatorio = random.randint(1, 100)
 
-    print('Adivina el numero')
+    print('Adivina el numero \U0001f522')
     print('Tienes ' + str(vidas) + ' vidas \u2764\uFE0F\u200D\U0001f525')
     numero_elegido = int(input('Elige un número del 1 al 100: '))
 
